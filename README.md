@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**ehdaudrnr3/ehdaudrnr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+느림보 개발자입니다.✨ _special_ ✨
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
